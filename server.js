@@ -17,3 +17,4 @@ app.listen(port, function(error) {
     console.log("Express server listening on port", port);
   }
 });
+console.log('test');
